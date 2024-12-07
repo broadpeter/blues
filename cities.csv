@@ -1,0 +1,22 @@
+name,longitude,latitude,type,labelOffsetX,labelOffsetY
+Memphis,-90.0490,35.1495,blues,0,-8
+Clarksdale,-90.5709,34.2001,blues,20,-5
+Dockery,-90.5932,33.7225,blues,-20,-5
+Atlanta,-84.3880,33.7490,blues,0,-8
+Nashville,-86.7816,36.1627,blues,20,10
+New Orleans,-90.0715,29.9511,blues,-20,10
+Charlotte,-80.8431,35.2271,blues,0,-8
+Miami,-80.1918,25.7617,major,15,0
+Tampa,-82.4572,27.9506,major,0,-8
+Jacksonville,-81.6557,30.3322,major,30,0
+Birmingham,-86.8025,33.5207,major,-20,-5
+Mobile,-88.0399,30.6954,major,0,15
+Jackson,-90.1848,32.2988,major,-20,5
+Little Rock,-92.2896,34.7465,major,-20,-5
+Columbia,-81.0348,34.0007,major,20,0
+Charleston,-79.9311,32.7765,major,25,-5
+Savannah,-81.0999,32.0809,major,-20,-5
+Raleigh,-78.6382,35.7796,major,20,5
+Houston,-95.3698,29.7604,major,-25,0
+Dallas,-96.7970,32.7767,major,-20,-5
+St. Louis,-90.1994,38.6270,major,0,15
