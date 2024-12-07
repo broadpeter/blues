@@ -1,9 +1,12 @@
 step,title,text_content,text_class,highlighted_states,audio_source
 0,,Different styles emerged in different areas,header-step,,
-1,Delta Blues,test testBlues from the Mississippi delta is characterised by a distinct fingerpicking style and use of a slide,header-step,28,crossroadshort.mp3
-2,Delta Blues,Key artists include Robert Johnson,header-step,28,crossroadshort.mp3
-3,Piedmont Blues,East Coast or Piedmonte blues is a distinctive style with ragtime-style syncopation and technical way of playing.,header-step,"13,45,37,12",policedogblues.mp3
-4,Piedmont Blues,It had many successful proponents such as Blind Blake and Blind Boy Fuller,standard-step,"13,45,37,12",policedogblues.mp3
-5,Hill Country Blues,Mississippi Hill Country blues comes from the Northern part of the Mississippi bordering Tennessee.,standard-step,"28,47",yougottomove.mp3
-6,Hill Country Blues,It is characterized by a hypnotic rhythm few chord changes and simple structures,header-step,"28,47",yougottomove.mp3
-7,Hill Country Blues,It is characterized by a hypnotic rhythm few chord changes and simple structures,blank-step,"28,47",yougottomove.mp3
+1,Delta Blues,Delta Blues,header-step,,header-step,28,crossroadshort.mp3
+2,Delta Blues,Blues from the Mississippi delta is characterised by a distinct fingerpicking style and use of a slide,standard-step,28,crossroadshort.mp3
+3,Delta Blues,Key artists include Robert Johnson,standard-step,28,crossroadshort.mp3
+4,Piedmont Blues,Piedmont Blues,header-step,"13,45,37,12",policedogblues.mp3
+5,Piedmont Blues,East Coast or Piedmonte blues is a distinctive style with ragtime-style syncopation and technical way of playing.,standard-step,"13,45,37,12",policedogblues.mp3
+6,Piedmont Blues,It had many successful proponents such as Blind Blake and Blind Boy Fuller,standard-step,"13,45,37,12",policedogblues.mp3
+7,Hill Country Blues,Hill Country Blues,header-step,"28,47",yougottomove.mp3
+8,Hill Country Blues,Mississippi Hill Country blues comes from the Northern part of the Mississippi bordering Tennessee.,standard-step,"28,47",yougottomove.mp3
+9,Hill Country Blues,It is characterized by a hypnotic rhythm few chord changes and simple structures,standard-step,"28,47",yougottomove.mp3
+10,Hill Country Blues,It is characterized by a hypnotic rhythm few chord changes and simple structures,blank-step,"28,47",yougottomove.mp3
