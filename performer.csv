@@ -1,3 +1,5 @@
-performer_name,longitude,latitude,style,location_name
-Memphis,-90.049,35.1495,Piedmont,test1
-Clarksdale,-90.5709,34.2001,Delta,test2
+performer_name,longitude,latitude,style,location_name,county,state
+Mississippi Fred McDowell,-90.049,35.1495,Mississippi Hill Country,Rossville,Fayette,Tennessee
+Robert Johnson,-90.391389,31.865,Delta,HazlehurstCopiah,,Mississippi
+Blind Willie Johnson,-96.8925,31.306667,Gospel,Marlin,Falls,Texas
+Blind Boy Fuller,-79.760833,34.938611,Piedmont,Rockingham,Richmond,North Carolina
