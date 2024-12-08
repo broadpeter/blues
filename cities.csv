@@ -1,6 +1,6 @@
 name,longitude,latitude,type,label_dx,label_dy,text_anchor,population
 Memphis,-90.0490,35.1495,blues,0,-8,middle,
-Clarksdale,-90.5709,34.2001,blues,-20,-8,end,
+Clarksdale,-90.5709,34.2001,blues,20,8,start,
 Dockery,-90.5932,33.7225,blues,15,-8,start,
 Atlanta,-84.3880,33.7490,blues,0,-8,middle,
 Nashville,-86.7816,36.1627,blues,20,-8,start,
