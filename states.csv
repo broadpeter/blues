@@ -17,7 +17,7 @@ id,abbr,longitude,latitude
 19,IA,0,0
 20,KS,0,0
 21,KY,0,0
-22,LA,0,0
+22,LA,-20,0
 23,ME,0,0
 24,MD,0,0
 25,MA,0,0
